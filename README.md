@@ -1,11 +1,11 @@
-# Setup Guide
-## Overview
+# Overview
 The smo utility is a command-line tool designed to run Python scripts and provide error analysis using OpenAI's API. It allows you to run scripts from anywhere in your system and get detailed troubleshooting tips for any errors encountered.
 
 ## Components
 smo.py: The Python script that handles error analysis and communicates with OpenAI's API.
 smo: A shell script that invokes smo.py with the required arguments.
-Installation
+
+# Installation
 
 ## 1. Clone the Repository
 First, clone the repository containing the smo.py and smo files:
