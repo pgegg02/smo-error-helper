@@ -53,7 +53,7 @@ Ensure you have Python 3 and the necessary Python packages installed. You can in
 pip install openai
 ```
 
-5. Set Up OpenAI API Key
+## 5. Set Up OpenAI API Key
 For smo.py to work, you need to set your OpenAI API key as a environment variable.
 
 ```export OPENAI_API_KEY='your_openai_api_key'```
