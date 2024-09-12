@@ -66,3 +66,4 @@ smo /path/to/your/script.py
 ```
 If the script produces errors, smo will provide a detailed error message and an analysis from OpenAI's API.
 
+![Alt text](exampleusage.jpg)
